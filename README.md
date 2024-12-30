@@ -1,2 +1,3 @@
 # CarDetails-RestAPI-
-It is car detailing project which contains all the basic functions of Django Rest API.
+CarDekho is a Django-based web application for managing car listings, reviews, and user interactions.
+
